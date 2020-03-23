@@ -7,3 +7,6 @@ and his udemy academy teachings about web development and front-end
 this project was the third i have done while from followinh his teachings, 
 I have spent around 19 hours on that project. Here is more about Flexbox capabilities and in the end we 
 I have done some part using grid istead of flexbox
+
+
+Also implemented the first videLink which is also a simple feature. 
